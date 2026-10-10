@@ -28,7 +28,7 @@
 3. **M3**：网络请求与本地存储样例  
 4. **M4**：打包 / 签名检查清单  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
